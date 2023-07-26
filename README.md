@@ -1,4 +1,4 @@
-# EA_Budak_Ubat
+# [EA - Budak Ubat](https://github.com/syarief02/EA_Budak_Ubat/archive/refs/heads/main.zip)
 please use CTRL+F shortcut to search for your account number.
 
 **EA - Budak Ubat v1.60**
