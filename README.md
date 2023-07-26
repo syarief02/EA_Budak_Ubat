@@ -54,26 +54,24 @@ Support: support@exness.com
 
 Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file, and for fbs and forex4you clients you will get spread rebate of 50% of the commission that I get based on your total trade lot once a week.  Clients who have registered through my link can just PM the trading account number to me https://t.me/SyariefAzman.
 
+
 **UPDATE LOGS::**
 
-EA Budak Ubat v1.55 
- ```
-Here is the summary of how this EA works: 
- 
- • When the EA is active, it will analyze the chart on every new bar 
- • If there are no existing positions on the chart, the EA will enter a trade based on the candle. If the candle is bullish, it will enter a buy trade and if it is bearish it will enter a sell trade. And it will also set a Stop loss order at a certain distance from the opened trade price if the stop loss variable is greater than 0. 0 means no stop loss. 
- • If there are existing positions on the chart and the last one is in loss, EA will check if the distance between the current market price and the order is at least the minimum distance set by the user, and then it will enter a trade based on the candle, lot size will be calculated using the martingale method, and will set a Stop loss order at a certain distance from the opened trade price if the stop loss variable is greater than 0. 
- • If Hedging is set to false, the EA will only enter trades in one direction at a time. If the first position is a buy trade, all subsequent martingale positions must also be buy trades. If the first position is a sell trade, all subsequent martingale positions must also be sell trades. If Hedging is set to true, the EA will enter trades in both directions. 
- • The EA will modify the take profit of all positions in the same direction to a single break-even point plus the take profit level set by the user. 
- • The EA will stop working and will display an alert message if the EA has expired. 
+EA Budak Ubat v1.60
 ```
-//+------------------------------------------------------------------+
+what's new:-
 
-EA Budak Ubat v1.56
-```
-This are just update on bug fixes and added Max Trade parameter.
+Position Mode :- 
+you can set it up to buy only or sell only mode
 
-account that already registered can use this file and it will be no expiry. only contact me to get the update if the expiry Alert pop up.
+buy only -  the ea will only buy
+sell only - the ea will only sell
+buy and sell - the ea will buy and sell.
+
+if hedging is false while in the buy and sell mode, it will enter only one way but it will decide whether to buy or sell based on the first candle close. if it is bullish it will buy, if it bearish it will sell. whichever comes first.
+
+Maximum Lot :- 
+when martingale lots has exceeded the Max Lot value, it will enter the Max Lot value instead.this is just a simple solution to the uncontrollable martingale lot sizes.
 ```
 //+------------------------------------------------------------------+
 
@@ -100,20 +98,23 @@ this is the max distance between order. if you set it to 10 pip, it will stop in
 ```
 //+------------------------------------------------------------------+
 
-EA Budak Ubat v1.60
+EA Budak Ubat v1.56
 ```
-what's new:-
+This are just update on bug fixes and added Max Trade parameter.
 
-Position Mode :- 
-you can set it up to buy only or sell only mode
+account that already registered can use this file and it will be no expiry. only contact me to get the update if the expiry Alert pop up.
+```
+//+------------------------------------------------------------------+
 
-buy only -  the ea will only buy
-sell only - the ea will only sell
-buy and sell - the ea will buy and sell.
-
-if hedging is false while in the buy and sell mode, it will enter only one way but it will decide whether to buy or sell based on the first candle close. if it is bullish it will buy, if it bearish it will sell. whichever comes first.
-
-Maximum Lot :- 
-when martingale lots has exceeded the Max Lot value, it will enter the Max Lot value instead.this is just a simple solution to the uncontrollable martingale lot sizes.
+EA Budak Ubat v1.55 
+ ```
+Here is the summary of how this EA works: 
+ 
+ • When the EA is active, it will analyze the chart on every new bar 
+ • If there are no existing positions on the chart, the EA will enter a trade based on the candle. If the candle is bullish, it will enter a buy trade and if it is bearish it will enter a sell trade. And it will also set a Stop loss order at a certain distance from the opened trade price if the stop loss variable is greater than 0. 0 means no stop loss. 
+ • If there are existing positions on the chart and the last one is in loss, EA will check if the distance between the current market price and the order is at least the minimum distance set by the user, and then it will enter a trade based on the candle, lot size will be calculated using the martingale method, and will set a Stop loss order at a certain distance from the opened trade price if the stop loss variable is greater than 0. 
+ • If Hedging is set to false, the EA will only enter trades in one direction at a time. If the first position is a buy trade, all subsequent martingale positions must also be buy trades. If the first position is a sell trade, all subsequent martingale positions must also be sell trades. If Hedging is set to true, the EA will enter trades in both directions. 
+ • The EA will modify the take profit of all positions in the same direction to a single break-even point plus the take profit level set by the user. 
+ • The EA will stop working and will display an alert message if the EA has expired. 
 ```
 //+------------------------------------------------------------------+
