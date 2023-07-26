@@ -55,7 +55,7 @@ Support: support@exness.com
 Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file, and for fbs and forex4you clients you will get spread rebate of 50% of the commission that I get based on your total trade lot once a week.  Clients who have registered through my link can just PM the trading account number to me https://t.me/SyariefAzman.
 
 **HOW TO INSTALL AN EA ON MT4 (FASTEST METHOD):**
-[![Watch the video](https://img.youtube.com/vi/leH9PGkLc6Q/maxresdefault.jpg)](https://youtu.be/leH9PGkLc6Q)
+[![Watch the video](https://img.youtube.com/vi/leH9PGkLc6Q/hqdefault.jpg)](https://youtu.be/leH9PGkLc6Q)
 
 **UPDATE LOGS::**
 
