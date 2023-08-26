@@ -64,7 +64,7 @@ EA Budak Ubat v1.61
 ```
 What's new:-
 
-Analysis mode: the FIRST position will follow this analysis method.
+Analysis Method: the FIRST position will follow this analysis method.
 
 Grid Trading: you can switch on/off Grid Trading True or False. if this function is turned off, the EA will transform into a single entry EA.
 
