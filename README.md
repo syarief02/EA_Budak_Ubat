@@ -76,7 +76,7 @@ on Every Tick: the EA enter trades immediately when attached and also enter new 
 - these two values specify the amount of pips the EA uses to calculate the Take Profit and the Stop Loss (if configured)
 
 ##### *Minimum/Maximum Distance Between Orders:*
-- these two value define the distance between orders, from a minimum value to a maximum. If you se the Max Distance to 10 pips, it will stop increment at 10 pips current distance.
+- these two value define the distance between orders, from a minimum value to a maximum. If you see the Max Distance to 10 pips, it will stop increment at 10 pips current distance.
 
 ##### *Distance Increment Between Orders:*
 - this will increase the distance between order settings for the 3rd layer, 4th layer and so on. 
