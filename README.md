@@ -181,7 +181,8 @@ Please select a broker that you have never registered.  tell me the trading acc
 ---
 ### HOW TO INSTALL AN EA ON MT4:
 [![Watch the video](https://img.youtube.com/vi/leH9PGkLc6Q/hqdefault.jpg)](https://youtu.be/leH9PGkLc6Q)
-#
+
+***
 ### **UPDATE LOGS::**
 
 #### EA Budak Ubat v1.61
@@ -195,7 +196,7 @@ Grid Trading: you can switch on/off Grid Trading True or False. if this function
 AutoConfig: this is an AI. It will automatically adjust the best configuration for any pairs you are using. Turn this on and see the magic.
 ```
 ![EA Budak Ubat v1.61](./screenshot/v1.61.png)
-#
+***
 
 #### EA Budak Ubat v1.60
 ```
@@ -213,7 +214,7 @@ if hedging is false while in the buy and sell mode, it will enter only one way b
 Maximum Lot :- 
 when martingale lots has exceeded the Max Lot value, it will enter the Max Lot value instead.this is just a simple solution to the uncontrollable martingale lot sizes.
 ```
-#
+***
 
 #### EA Budak Ubat v1.58
 ```
@@ -236,7 +237,7 @@ this is the max distance between order. if you set it to 10 pip, it will stop in
 - bug fixes on new bar function 
 - MaxTrade is now separated for buy and sell in hedging true
 ```
-#
+***
 
 #### EA Budak Ubat v1.56
 ```
@@ -244,7 +245,7 @@ This are just update on bug fixes and added Max Trade parameter.
 
 account that already registered can use this file and it will be no expiry. only contact me to get the update if the expiry Alert pop up.
 ```
-#
+***
 #### EA Budak Ubat v1.55 
  ```
 Here is the summary of how this EA works: 
@@ -256,7 +257,7 @@ Here is the summary of how this EA works:
  • The EA will modify the take profit of all positions in the same direction to a single break-even point plus the take profit level set by the user. 
  • The EA will stop working and will display an alert message if the EA has expired. 
 ```
-#
+***
 
 ## Author
 
