@@ -65,7 +65,9 @@ on Every Tick: the EA enter trades immediately when attached and also enter new 
 
 ##### *Grid Trading:*
 - you can switch on/off Grid Trading True or False. if this function is turned off, the EA will transform into a single entry EA.
-Martingale multiplier: it defines the multiplier used by the EA to increment the lot size of the orders after the first one. Set it to 1 disable the increment and the EA uses only the Initial Lot Size value
+
+*Martingale multiplier:* 
+- it defines the multiplier used by the EA to increment the lot size of the orders after the first one. Set it to 1 disable the increment and the EA uses only the Initial Lot Size value
 
 ##### *Maximum Lot size:*
 - when martingale lots has exceeded the Max Trade value, it will enter the Max Lot size value instead. This is just a simple solution to the uncontrollable martingale lot sizes.
