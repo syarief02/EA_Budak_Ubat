@@ -19,15 +19,15 @@
 ## EA Budak Ubat v1.61 - [Download](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020230901.ex4)
 
 ### How it works
-• When the EA is active, it will analyze the chart based on the Execution Mode parameter. 
+- When the EA is active, it will analyze the chart based on the Execution Mode parameter. 
 
-• If there are no existing positions on the chart, the EA will enter a trade based on the parameter. If the trend is bullish, it will enter a buy trade and if it is bearish it will enter a sell trade. And it will also set a Stop loss order at a certain distance from the opened trade price if the stop loss variable is greater than 0. 0 means no stop loss. 
+- If there are no existing positions on the chart, the EA will enter a trade based on the parameter. If the trend is bullish, it will enter a buy trade and if it is bearish it will enter a sell trade. And it will also set a Stop loss order at a certain distance from the opened trade price if the stop loss variable is greater than 0. 0 means no stop loss. 
 
-• If there are existing positions on the chart and the last one is in loss, EA will check if the distance between the current market price and the order is at least the minimum distance set by the user, and then it will enter a trade based on the candle, lot size will be calculated using the martingale method, and will set a Stop loss order at a certain distance from the opened trade price if the stop loss variable is greater than 0. 
+- If there are existing positions on the chart and the last one is in loss, EA will check if the distance between the current market price and the order is at least the minimum distance set by the user, and then it will enter a trade based on the candle, lot size will be calculated using the martingale method, and will set a Stop loss order at a certain distance from the opened trade price if the stop loss variable is greater than 0. 
 
-• If Hedging is set to false, the EA will only enter trades in one direction at a time. If the first position is a buy trade, all subsequent martingale positions must also be buy trades. If the first position is a sell trade, all subsequent martingale positions must also be sell trades. If Hedging is set to true, the EA will enter trades in both directions. 
+- If Hedging is set to false, the EA will only enter trades in one direction at a time. If the first position is a buy trade, all subsequent martingale positions must also be buy trades. If the first position is a sell trade, all subsequent martingale positions must also be sell trades. If Hedging is set to true, the EA will enter trades in both directions. 
 
-• The EA will modify the take profit of all positions in the same direction to a single break-even point plus the take profit level set by the user. 
+- The EA will modify the take profit of all positions in the same direction to a single break-even point plus the take profit level set by the user. 
 #
 ### EA Parameters
 ##### *Execution Mode:* 
