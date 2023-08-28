@@ -28,7 +28,7 @@
     - [LiteForex](#liteforex)
     - [RoboForex](#roboforex)
     - [Exness](#exness)
-- [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4)
+- [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
 - [Update Logs](#update-logs)
   - [EA Budak Ubat v1.61](#ea-budak-ubat-v161)
   - [EA Budak Ubat v1.60](#ea-budak-ubat-v160)
