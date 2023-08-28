@@ -30,19 +30,18 @@
 • The EA will modify the take profit of all positions in the same direction to a single break-even point plus the take profit level set by the user. 
 #
 ### EA Parameters
-*Execution Mode:* 
-
+##### *Execution Mode:* 
 - on Every New Bar: when the EA is active, it will analyze the chart on every new bar (candle). It enter trades only after new candle appear. it will still follow the distance setting for the new layer, but only enter trades after the candle closes.  
 on Every Tick: the EA enter trades immediately when attached and also enter new layer immediately when the distance between order setting is met. 
 
-*Positions Mode:* 
+##### *Positions Mode:* 
 - by default the EA uses the Buy & Sell mode, but it can be configured to operate only on Buy or in Sell.
 
-*Enable/Disable Hedging:* 
+##### *Enable/Disable Hedging:* 
 - If Hedging is set to false, the EA will only enter trades in one direction at a time. If the first position is a buy trade, all subsequent martingale positions must also be buy trades. If the first position is a sell trade, all subsequent martingale positions must also be sell trades. 
 - If Hedging is set to true, the EA will enter trades in both directions. 
 
-*Analysis Method:* 
+##### *Analysis Method:* 
 - This Parameter is only for the EA to determine the FIRST DIRECTION of the entry if there are no existing positions on the chart. It can be set to uses one of the four other analysis methods: Classic Candle (Bull/Bear), SMA20, Alligator, Ichimoku. 
  
     - The older version of this EA was based on the Candle Method. If the candle is bullish, it will enter a buy trade and if it is bearish it will enter a sell trade. 
@@ -61,29 +60,29 @@ on Every Tick: the EA enter trades immediately when attached and also enter new 
         - The above trend signals are strengthened if the cloud is moving in the same direction as the price. For example, during an uptrend, the top of the cloud is moving up, or during a downtrend, the bottom of the cloud is moving down.
             - Ref: https://www.investopedia.com/terms/i/ichimoku-cloud.asp
 
-*Initial lot size:*
+##### *Initial lot size:*
 -  the size of the first order. If the Martingale multiplier is greater than 1, this value will be increased using the value of the Martingale Multiplier. If the Martingale Multiplier is set to 1, the Initial lot size will also be used as size for the following orders.
 
-*Grid Trading:*
+##### *Grid Trading:*
 - you can switch on/off Grid Trading True or False. if this function is turned off, the EA will transform into a single entry EA.
 Martingale multiplier: it defines the multiplier used by the EA to increment the lot size of the orders after the first one. Set it to 1 disable the increment and the EA uses only the Initial Lot Size value
 
-*Maximum Lot size:*
+##### *Maximum Lot size:*
 - when martingale lots has exceeded the Max Trade value, it will enter the Max Lot size value instead. This is just a simple solution to the uncontrollable martingale lot sizes.
 
-*Take Profit & Stop Loss in pips:* 
+##### *Take Profit & Stop Loss in pips:* 
 - these two values specify the amount of pips the EA uses to calculate the Take Profit and the Stop Loss (if configured)
 
-*Minimum/Maximum Distance Between Orders:*
+##### *Minimum/Maximum Distance Between Orders:*
 - these two value define the distance between orders, from a minimum value to a maximum. If you se the Max Distance to 10 pips, it will stop increment at 10 pips current distance.
 
-*Distance Increment Between Orders:*
+##### *Distance Increment Between Orders:*
 - this will increase the distance between order settings for the 3rd layer, 4th layer and so on. 
 
-*Max Trade:*
+##### *Max Trade:*
 - this value tells the EA what is the maximum number of orders it can open in one direction.
 
-*Automatic Config AI:*
+##### *Automatic Config AI:*
 - this is an AI. It will automatically adjust the best configuration for any pairs you are using. Turn this on and see the magic.
 
 #
