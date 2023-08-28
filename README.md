@@ -13,7 +13,7 @@
   - [EA Budak Ubat v1.55](#ea-budak-ubat-v155)
 - [Author](#author)
 
-## [EA Budak Ubat v1.61](./EA%20-%20Budak%20Ubat%20v1.61%20-%2020230901.ex4)
+## [EA Budak Ubat v1.61](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020230901.ex4)
 
 ### Authorized account list:
 please use CTRL+F shortcut to search for your account number.
@@ -68,7 +68,7 @@ Support: support@exness.com
 
 Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file, and for fbs and forex4you clients you will get spread rebate of 50% of the commission that I get based on your total trade lot once a week.  Clients who have registered through my link can just PM the trading account number to me https://t.me/SyariefAzman.
 
-### **HOW TO INSTALL AN EA ON MT4 :**
+### HOW TO INSTALL AN EA ON MT4:
 [![Watch the video](https://img.youtube.com/vi/leH9PGkLc6Q/hqdefault.jpg)](https://youtu.be/leH9PGkLc6Q)
 
 ### **UPDATE LOGS::**
@@ -81,7 +81,7 @@ Analysis Method: the FIRST position will follow this analysis method.
 
 Grid Trading: you can switch on/off Grid Trading True or False. if this function is turned off, the EA will transform into a single entry EA.
 
-AutoConfig: this will automatically adjust your configuration for the pairs other than eurusd using the recommended settings.
+AutoConfig: this is an AI. It will automatically adjust the best configuration for any pairs you are using. Turn this on and see the magic.
 ```
 ![EA Budak Ubat v1.61](./screenshot/v1.61.png)
 //+------------------------------------------------------------------+
