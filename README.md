@@ -13,7 +13,7 @@
   - [EA Budak Ubat v1.55](#ea-budak-ubat-v155)
 - [Author](#author)
 
-## [EA Budak Ubat v1.61](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020230901.ex4)
+## EA Budak Ubat v1.61 - [Download](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020230901.ex4)
 
 ### Authorized account list:
 please use CTRL+F shortcut to search for your account number.
