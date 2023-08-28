@@ -5,7 +5,7 @@
 - [Overview](#overview)
   - [Authorized account list](#authorized-account-list)
   - [How to get authorized](#how-to-get-authorized)
-  - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
+  - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4)
 - [Update Logs](#update-logs)
   - [EA Budak Ubat v1.60](#ea-budak-ubat-v160)
   - [EA Budak Ubat v1.58](#ea-budak-ubat-v158)
@@ -68,7 +68,7 @@ Support: support@exness.com
 
 Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file, and for fbs and forex4you clients you will get spread rebate of 50% of the commission that I get based on your total trade lot once a week.  Clients who have registered through my link can just PM the trading account number to me https://t.me/SyariefAzman.
 
-### **HOW TO INSTALL AN EA ON MT4 (FASTEST METHOD) :**
+### **HOW TO INSTALL AN EA ON MT4 :**
 [![Watch the video](https://img.youtube.com/vi/leH9PGkLc6Q/hqdefault.jpg)](https://youtu.be/leH9PGkLc6Q)
 
 ### **UPDATE LOGS::**
