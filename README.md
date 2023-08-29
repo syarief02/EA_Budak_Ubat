@@ -1,4 +1,4 @@
-# [EA - Budak Ubat](https://github.com/syarief02/EA_Budak_Ubat/archive/refs/heads/main.zip)
+# [EA - Budak Ubat](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020230901.ex4)
 
 ## Table of contents
 - [Overview](#overview)
