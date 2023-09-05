@@ -40,7 +40,7 @@
 ## Overview
 ## EA Budak Ubat v1.61 - [Download](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020230911.ex4)
 
-<p style="text-align: center;"><iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/6o3u"></iframe></p>
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/6o3u"></iframe>
 
 ### How it works
 - When the EA is active, it will analyze the chart based on the Execution Mode parameter. 
