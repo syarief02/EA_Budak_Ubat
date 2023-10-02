@@ -21,6 +21,7 @@
   - [How to get authorized](#how-to-get-authorized)
     - [CXM](#cxm)
     - [FBS](#fbs)
+    - [HeadWay](#headway)
     - [forex4you](#forex4you)
     - [GMI](#gmi)
     - [OctaFx](#octafx)
@@ -134,6 +135,14 @@ https://fbs.partners?ibl=1869&ibk=BuBat. 
 Partner id: 588292. 
 
 Support: support@fbs.com
+
+#### HeadWay:
+
+https://headway.partners/user/signup?hwp=516d6b
+
+Partner ID: 1021290
+
+Support: care@hw.site
 
 #### forex4you: 
 https://account.forex4you.com/en/user-registration/?affid=4hcnvz4.
