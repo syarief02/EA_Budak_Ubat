@@ -130,7 +130,7 @@ Partner ID: 5062
 
 #### FBS: 
 
-https://fbs.partners?ibl=1869&ibk=BuBat. 
+https://tinyurl.com/EABUFBSPartner. 
 
 Partner id: 588292. 
 
