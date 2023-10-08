@@ -1,4 +1,4 @@
-# EA Budak Ubat - [Download](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020231013.ex4)
+# EA Budak Ubat - [Download](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020231013%20.ex4)
 
 ## Table of contents
 - [Overview](#overview)
@@ -39,7 +39,7 @@
 - [Author](#author)
 
 ## Overview
-## EA Budak Ubat v1.61 - [Download](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020231013.ex4)
+## EA Budak Ubat v1.61 - [Download](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020231013%20.ex4)
 
 
 ### How it works
