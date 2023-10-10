@@ -193,6 +193,68 @@ Please select a broker that you have never registered.  tell me the trading acc
 ### HOW TO INSTALL AN EA ON MT4 (fastest method):
 [![Watch the video](https://img.youtube.com/vi/leH9PGkLc6Q/hqdefault.jpg)](https://youtu.be/leH9PGkLc6Q)
 
+---
+
+### USING A VPS
+
+VPS (Virtual Private Server) in forex trading is a hosting service used by traders to run their trading platforms 24/7 without relying on their personal computers. It has many uses and benefits in forex trading, especially for those who have never used it before.
+
+Here's an explanation of VPS in forex trading, its uses, and how to use it for those who have never used it before:
+
+1. What is VPS in Forex Trading?
+
+VPS is a virtual server that can be accessed remotely and functions like a physical computer. It runs 24/7 and is connected to the internet at high speed. Forex traders can install their trading platforms on this VPS and run them without keeping their personal computers active all the time. VPS provides stability and consistent connectivity, which is crucial in forex trading.
+
+2. Uses of VPS in Forex Trading:
+
+- Stability: VPS provides a stable trading environment as it is not affected by disruptions such as power outages, internet outages, or hardware issues that may occur with personal computers.
+
+- 24/7 Connectivity: VPS is always connected to the internet, allowing traders to execute their trading strategies without constantly monitoring the market.
+
+- Low Latency: VPS is often located in data centers with super-fast internet connections, reducing latency or delays in trade execution.
+
+- Security: With VPS, a trader's data and trading platform are more secure because they are in an isolated environment.
+
+3. How to Use VPS for Forex Trading:
+
+- Choose a VPS Service: Traders should sign up for VPS services from a reliable hosting provider. Many forex brokers offer VPS for free or at an additional cost to their clients.
+
+- Install the Trading Platform: Once you have access to VPS, install your favorite trading platform on the VPS. This can be done through remote access.
+
+- Connect to VPS: Use remote desktop software like RDP (Remote Desktop Protocol) or SSH (Secure Shell) to connect to the VPS from your personal computer.
+
+- Set Up and Run Trading Strategies: After connecting to VPS, traders can set up and run their trading strategies and monitor positions and market developments in real-time through remote desktop.
+
+Using VPS in forex trading offers great flexibility and stability, especially for traders who want to run automated trading strategies or cannot always monitor the market directly. However, it's important to remember that choosing a reliable VPS provider and proper configuration are essential to ensure optimal performance in forex trading.
+
+---
+#### NEED VPS?
+
+🔥🚀 DON'T MISS OUT! LIMITED TIME OFFER! LIFETIME DISCOUNT for Forex VPS in New York, Amsterdam, London, and Malaysia!
+
+To our valued customers,
+
+Here's the exciting news you've been waiting for! We are delighted to announce an incredible 50% discount on Forex VPS packages, and this offer is not limited to just one or two locations, but includes Malaysia as well! But what's even more enticing is that, as a special bonus, you will enjoy this discount for a lifetime, with no set expiration period!
+
+Grab this limited-time offer while stocks last! This opportunity is only available for a short time! Don't miss out on this chance, sign up now before it's too late. Take quick action to secure your spot! 🚀
+
+📅 This promotion starts on September 22, 2023.
+
+To avail of this exclusive discount, all you need to do is redeem the provided code and click on the link below to proceed with your order:
+
+⏩ GBVPSFX50 - FX1 from RM79/month to RM39.50/month
+
+❗️ Act fast! Limited to the first 100 new customers only.❗️
+
+❗️Please note that this offer is not valid for customers looking to renew their subscriptions.❗️
+
+🌐 Get it here: https://tinyurl.com/GBVPSFX1
+PROMO CODE: GBVPSFX50
+
+Thank you for choosing Forex VPS with GB Network. We are ready to serve you with enthusiasm!
+
+[![VPS BU](./photo_6124898620416308942_y.jpg)](https://tinyurl.com/GBVPSFX1)
+
 ***
 ### **UPDATE LOGS::**
 
