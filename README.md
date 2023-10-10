@@ -30,6 +30,8 @@
     - [RoboForex](#roboforex)
     - [Exness](#exness)
 - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
+- [USING A VPS](#using-a-vps)
+  - [Need VPS?](#need-vps)
 - [Update Logs](#update-logs)
   - [EA Budak Ubat v1.61](#ea-budak-ubat-v161)
   - [EA Budak Ubat v1.60](#ea-budak-ubat-v160)
@@ -228,7 +230,7 @@ VPS is a virtual server that can be accessed remotely and functions like a physi
 Using VPS in forex trading offers great flexibility and stability, especially for traders who want to run automated trading strategies or cannot always monitor the market directly. However, it's important to remember that choosing a reliable VPS provider and proper configuration are essential to ensure optimal performance in forex trading.
 
 ---
-#### NEED VPS?
+#### Need VPS?
 
 🔥🚀 DON'T MISS OUT! LIMITED TIME OFFER! LIFETIME DISCOUNT for Forex VPS in New York, Amsterdam, London, and Malaysia!
 
