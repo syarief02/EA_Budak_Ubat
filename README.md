@@ -41,7 +41,15 @@
 ## Overview
 ## EA Budak Ubat v1.61 - [Download](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.61%20-%2020231013%20.ex4)
 
+### [Purchase Full Version](https://tinyurl.com/eabubuy)
 
+### [EA Budak Ubat Channel](https://www.mql5.com/en/channels/eabudakubat)
+
+Limited Time Price!
+
+The price will increase by 10 USD after every 10 purchases!
+
+---
 ### How it works
 - When the EA is active, it will analyze the chart based on the Execution Mode parameter. 
 
