@@ -120,6 +120,19 @@ on Every Tick: the EA enter trades immediately when attached and also enter new 
 
 ##### *Automatic Config AI:*
 - this is an AI. It will automatically adjust the best configuration for any pairs you are using. Turn this on and see the magic.
+    - ##### Autoconfig AI - Intelligent Trading Parameter Optimization
+
+      "Autoconfig AI system" is a highly advanced tool in the world of trading that enables dynamic calculation of crucial parameters. While it may not be full artificial intelligence, it is an invaluable asset in the trading process.
+
+      Here is a more detailed explanation of how it operates:
+
+    1. Dynamic Parameter Calculation: Autoconfig AI has the capability to calculate essential parameters like Take Profit (TP) and Pip Step dynamically. It achieves this by taking the average of the highest and lowest prices over a 365-day period on a daily timeframe and adding this value by dividing it by 365. This approach results in parameter values that are constantly updated every day, as it always incorporates fresh data, regardless of the last day's price data.
+    2. Real-Time Data Alignment: The tool continuously aligns with current market data, taking the highest and lowest prices on the current day and the previous day in its calculations.
+    3. Average Daily Range (ADR): Beyond just calculating the daily range, Autoconfig AI consistently computes the Average Daily Range (ADR) for the current chart and all available currency pairs.
+    4. Comparison Analysis: After the data collection phase, Autoconfig AI conducts comparison analysis of the average ranges among all currency pairs. This comparative analysis enables it to determine the optimal values for TP and Pip Step for each currency pair every minute.
+    5. Continuous Updates: This tool is not static; instead, Autoconfig AI ensures that parameter values are continuously updated every minute, ensuring it remains in sync with rapidly changing market conditions.
+    6. Automatic Configuration: Utilizing the collected data, Autoconfig AI seamlessly configures Take Profit, Pip Step, and additional distance parameters in your trading Expert Advisor (EA).
+    In summary, "Autoconfig AI System" is an invaluable tool that leverages data and dynamic calculations to consistently align trading parameters, ensuring its usability and effectiveness in the context of the current market. This automated approach not only strengthens trading strategies but also ensures smooth adaptation to the ever-changing dynamics of financial markets.
 
 ---
 ### Authorized account list:
