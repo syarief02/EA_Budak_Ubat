@@ -120,11 +120,11 @@ on Every Tick: the EA enter trades immediately when attached and also enter new 
 
 ##### *Automatic Config AI:*
 - this is an AI. It will automatically adjust the best configuration for any pairs you are using. Turn this on and see the magic.
-    - ##### Autoconfig AI - Intelligent Trading Parameter Optimization
+  - ##### Autoconfig AI - Intelligent Trading Parameter Optimization
 
-      "Autoconfig AI system" is a highly advanced tool in the world of trading that enables dynamic calculation of crucial parameters. While it may not be full artificial intelligence, it is an invaluable asset in the trading process.
+    "Autoconfig AI system" is a highly advanced tool in the world of trading that enables dynamic calculation of crucial parameters. While it may not be full artificial intelligence, it is an invaluable asset in the trading process.
 
-      Here is a more detailed explanation of how it operates:
+    Here is a more detailed explanation of how it operates:
 
     1. Dynamic Parameter Calculation: Autoconfig AI has the capability to calculate essential parameters like Take Profit (TP) and Pip Step dynamically. It achieves this by taking the average of the highest and lowest prices over a 365-day period on a daily timeframe and adding this value by dividing it by 365. This approach results in parameter values that are constantly updated every day, as it always incorporates fresh data, regardless of the last day's price data.
     2. Real-Time Data Alignment: The tool continuously aligns with current market data, taking the highest and lowest prices on the current day and the previous day in its calculations.
