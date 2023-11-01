@@ -29,6 +29,7 @@
     - [LiteForex](#liteforex)
     - [RoboForex](#roboforex)
     - [Exness](#exness)
+    - [XM](#xm)
 - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
 - [USING A VPS](#using-a-vps)
   - [Need VPS?](#need-vps)
@@ -209,6 +210,13 @@ https://one.exnesstrack.com/a/si0kd90q
 IB number : 8666845 
 
 Support: support@exness.com
+
+#### XM :
+https://clicks.pipaffiliates.com/c?c=862266&l=en&p=1
+
+Affiliate ID : A1202120
+
+Support : <a href="https://clicks.pipaffiliates.com/c?c=862266&l=en&p=18">XM Support</a>
 
 Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file, and for fbs and forex4you clients you will get spread rebate of 50% of the commission that I get based on your total trade lot once a week.  Clients who have registered through my link can just PM the trading account number to me https://t.me/SyariefAzman.
 
