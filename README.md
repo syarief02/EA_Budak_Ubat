@@ -153,7 +153,7 @@ Partner ID: 5062
 
 #### FBS: 
 
-https://tinyurl.com/EABUFBSPartner. 
+https://tinyurl.com/EABUFBSPartner
 
 Partner id: 588292. 
 
