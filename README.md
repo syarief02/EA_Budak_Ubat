@@ -30,6 +30,7 @@
     - [RoboForex](#roboforex)
     - [Exness](#exness-)
     - [XM](#xm-)
+    - [Valetax](#valetax-)
 - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
 - [USING A VPS](#using-a-vps)
   - [Need VPS?](#need-vps)
