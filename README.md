@@ -156,7 +156,7 @@ Partner ID: 5062
 
 #### FBS: 
 
-https://tinyurl.com/EABUFBSPartner
+https://fbs.partners?ibl=1869&ibk=BuBat
 
 Partner id: 588292. 
 
