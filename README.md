@@ -1,3 +1,8 @@
+## Additional License Information
+
+While this software is licensed under the MIT License, please note that it **may not be sold or used for commercial purposes**. This restriction is to ensure that the software remains free and that the author is not held liable for any commercial use.
+
+
 # EA Budak Ubat - [Download](https://github.com/syarief02/EA_Budak_Ubat/raw/main/EA%20-%20Budak%20Ubat%20v1.62%20-%2020240930.ex4)
 
 ## Table of contents
