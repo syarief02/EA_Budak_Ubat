@@ -34,7 +34,6 @@ While this software is licensed under the MIT License, please note that it **may
     - [InstaForex](#instaforex)
     - [LiteForex](#liteforex)
     - [RoboForex](#roboforex)
-    - [Exness](#exness)
     - [XM](#xm)
     - [Valetax](#valetax)
 - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
@@ -239,14 +238,6 @@ Support: <clients@litefinance.com>
 <https://my.roboforex.com/en/?a=mxyg>
 
 Affiliate code: mxyg
-
-#### Exness
-
-<https://one.exnesstrack.com/a/si0kd90q>
-
-IB number : 8666845
-
-Support: <support@exness.com>
 
 #### XM
 
