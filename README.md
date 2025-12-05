@@ -432,3 +432,28 @@ Here is the summary of how this EA works:
 - Github - [Syarief Azman](https://github.com/syarief02)
 - Telegram - [@SyariefAzman](https://t.me/SyariefAzman)
 - Twitter - [@SyariefAzman](https://www.twitter.com/SyariefAzman)
+
+# THIS SERVICE IS NOT PROVIDED TO CITIZENS OF COUNTRIES WHOSE DOMESTIC REGULATIONS CLASSIFY THIS INVESTMENT OFFER OR THIS PRODUCT AS PROHIBITED
+
+**Risk warning:** Products traded on margin carry a high level of risk, and it is possible to lose all your capital. These products may not be suitable for everyone and you should ensure that you understand the risks involved.
+
+**Restricted jurisdictions:** *EA Budak Ubat* does not offer its services to residents of the United States of America, Malaysia, the European Union, the United Kingdom, North Korea, Myanmar, Iran, or any other country whose domestic regulations classify such investment offerings as prohibited.
+
+**Local law compliance:** *EA Budak Ubat* does not direct its website, software, or services to any person in any country in which the use of its website or services is prohibited by local legislation. When accessing or using this website or software from a country in which its use may be restricted, it is the user’s responsibility to ensure that any use of the website or services adheres to local legislation.
+
+**No universal suitability:** *EA Budak Ubat* does not affirm that the information on its website or in its materials is suitable to all jurisdictions, or that the services are available in all jurisdictions.
+
+---
+
+## Additional Disclaimers
+
+- **No investment advice:** Nothing in our materials, website, or software constitutes investment, financial, legal, or tax advice. Decisions you make using *EA Budak Ubat* are your own and at your own risk.
+- **Past performance:** Historical results, forward-tests, and back-tests are not indicative of future performance. Market conditions can change rapidly.
+- **Automation risks:** Automated trading involves technology risks including but not limited to connectivity, latency, VPS/broker outages, slippage, spread widening, and execution errors. You are responsible for monitoring your account and maintaining appropriate risk controls (e.g., position sizing, stop loss).
+- **Broker independence:** *EA Budak Ubat* is independent and not affiliated with, endorsed by, or responsible for the actions of any broker or liquidity provider.
+- **User responsibility:** You are solely responsible for complying with all applicable laws and regulations in your jurisdiction, and for ensuring the EA is permitted for use on your trading account.
+- **Licensing & usage:** Unauthorized copying, resale, or distribution of *EA Budak Ubat* is prohibited. Access may be revoked for violations of the license terms.
+
+---
+
+*This disclaimer is provided for general information only and does not replace professional legal advice. If you are unsure whether you may use *EA Budak Ubat* in your country, consult your legal advisor.*
