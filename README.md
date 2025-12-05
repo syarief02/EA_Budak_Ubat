@@ -46,6 +46,7 @@ While this software is licensed under the MIT License, please note that it **may
   - [EA Budak Ubat v1.56](#ea-budak-ubat-v156)
   - [EA Budak Ubat v1.55](#ea-budak-ubat-v155)
 - [Author](#author)
+- [Legal Notice](#this-service-is-not-provided-to-citizens-of-countries-whose-domestic-regulations-classify-this-investment-offer-or-this-product-as-prohibited)
 
 ## Overview
 
