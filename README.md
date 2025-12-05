@@ -46,7 +46,8 @@ While this software is licensed under the MIT License, please note that it **may
   - [EA Budak Ubat v1.56](#ea-budak-ubat-v156)
   - [EA Budak Ubat v1.55](#ea-budak-ubat-v155)
 - [Author](#author)
-- [Legal Notice](#legal-notices)
+- [Legal Notices](#legal-notices)
+- [Additional Disclaimers](#additional-disclaimers)
 
 ## Overview
 
@@ -433,6 +434,8 @@ Here is the summary of how this EA works:
 - Github - [Syarief Azman](https://github.com/syarief02)
 - Telegram - [@SyariefAzman](https://t.me/SyariefAzman)
 - Twitter - [@SyariefAzman](https://www.twitter.com/SyariefAzman)
+
+---
 
 ## Legal Notices
 
