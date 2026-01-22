@@ -178,9 +178,11 @@ I lock the EA by account number for my client who is registered under my broker 
 
 #### CXM
 
-<https://secure.cxmdirect.com/links/go/5062>
+<https://secure.cxmys.com/links/go/5062>
 
 Partner ID: 5062
+
+Support: <support@cxm.com>
 
 #### FBS
 
