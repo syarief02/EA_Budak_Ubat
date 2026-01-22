@@ -186,7 +186,7 @@ Support: <support@cxm.com>
 
 #### FBS
 
-<https://fbs.partners?ibl=1869&ibk=BuBat>
+<https://fbs.partners?ibl=154319&ibp=588292>
 
 Partner id: 588292.
 
