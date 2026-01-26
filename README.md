@@ -25,6 +25,7 @@ While this software is licensed under the MIT License, please note that it **may
     - [Automatic Config AI](#automatic-config-ai)
 - [Authorized account list](#authorized-account-list)
   - [How to get authorized](#how-to-get-authorized)
+    - [FISG](#fisg)
     - [CXM](#cxm)
     - [FBS](#fbs)
     - [HeadWay](#headway)
@@ -175,6 +176,14 @@ please use CTRL+F shortcut to search for your account number.
 ### **HOW TO GET AUTHORIZED::**
 
 I lock the EA by account number for my client who is registered under my broker link only.  recommended account cent, laverage max.  minimum 100usd.
+
+#### FISG
+
+<https://my.fisg.com/u/CTt0Rd>
+
+Partner ID: CTt0Rd
+
+Support: <support@fisg.com>
 
 #### CXM
 
