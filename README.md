@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> ## 🚀 This project has moved!
+> EA Budak Ubat continues on **[EABudakUbat.com](https://EABudakUbat.com)**. Visit the website for the latest updates, downloads, and support.
+
+---
+
 ## Additional License Information
 
 While this software is licensed under the MIT License, please note that it **may not be sold or used for commercial purposes**. This restriction is to ensure that the software remains free and that the author is not held liable for any commercial use.
