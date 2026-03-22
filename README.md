@@ -35,7 +35,7 @@ While this software is licensed under the MIT License, please note that it **may
     - [CXM](#cxm)
     - [FBS](#fbs)
     - [HeadWay](#headway)
-    - [forex4you](#forex4you)
+    - [markets4you](#markets4you)
     - [OctaFx](#octafx)
     - [InstaForex](#instaforex)
     - [LiteForex](#liteforex)
@@ -215,9 +215,9 @@ Partner ID: 1021290
 
 Support: <care@hw.site>
 
-#### forex4you
+#### markets4you
 
-<https://account.forex4you.com/en/user-registration/?affid=4hcnvz4>.
+<https://account.markets4you.online/en/user-registration/?affid=4hcnvz4>.
 
 Partner code: 4hcnvz4
 
@@ -269,7 +269,7 @@ Support : <a href="https://clicks.pipaffiliates.com/c?c=862266&l=en&p=18">XM Sup
 
 Referral Code: 1939088
 
-Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file, and for fbs and forex4you clients you will get spread rebate of 50% of the commission that I get based on your total trade lot once a week.  Clients who have registered through my link can just PM the trading account number to me <https://t.me/SyariefAzman>.
+Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file, and for fbs and markets4you clients you will get spread rebate of 50% of the commission that I get based on your total trade lot once a week.  Clients who have registered through my link can just PM the trading account number to me <https://t.me/SyariefAzman>.
 
 ---
 

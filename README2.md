@@ -22,7 +22,7 @@
     - [CXM](#cxm)
     - [FBS](#fbs)
     - [HeadWay](#headway)
-    - [forex4you](#forex4you)
+    - [markets4you](#markets4you)
     - [GMI](#gmi)
     - [OctaFx](#octafx)
     - [InstaForex](#instaforex)
@@ -168,8 +168,8 @@ Partner ID: 1021290
 
 Support: care@hw.site
 
-#### forex4you: 
-https://account.forex4you.com/en/user-registration/?affid=4hcnvz4.
+#### markets4you: 
+https://account.markets4you.online/en/user-registration/?affid=4hcnvz4.
 
 Partner code: 4hcnvz4 
 
@@ -218,7 +218,7 @@ Affiliate ID : A1202120
 
 Support : <a href="https://clicks.pipaffiliates.com/c?c=862266&l=en&p=18">XM Support</a>
 
-Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file, and for fbs and forex4you clients you will get spread rebate of 50% of the commission that I get based on your total trade lot once a week.  Clients who have registered through my link can just PM the trading account number to me https://t.me/SyariefAzman.
+Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file, and for fbs and markets4you clients you will get spread rebate of 50% of the commission that I get based on your total trade lot once a week.  Clients who have registered through my link can just PM the trading account number to me https://t.me/SyariefAzman.
 
 ---
 ### HOW TO INSTALL AN EA ON MT4 (fastest method):
