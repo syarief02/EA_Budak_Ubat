@@ -30,6 +30,7 @@
     - [RoboForex](#roboforex)
     - [Exness](#exness-)
     - [XM](#xm-)
+    - [Tickmill](#tickmill)
 - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
 - [USING A VPS](#using-a-vps)
   - [Need VPS?](#need-vps)
@@ -217,6 +218,14 @@ https://clicks.pipaffiliates.com/c?c=862266&l=en&p=1
 Affiliate ID : A1202120
 
 Support : <a href="https://clicks.pipaffiliates.com/c?c=862266&l=en&p=18">XM Support</a>
+
+#### Tickmill
+
+https://tickmill.link/46cOQ2h
+
+IB Code: IB72324388
+
+Support: support@tickmill.com
 
 Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file.  Clients who have registered through my link can just PM the trading account number to me https://t.me/SyariefAzman.
 

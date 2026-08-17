@@ -42,6 +42,7 @@ While this software is licensed under the MIT License, please note that it **may
     - [RoboForex](#roboforex)
     - [XM](#xm)
     - [Valetax](#valetax)
+    - [Tickmill](#tickmill)
 - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
 - [USING A VPS](#using-a-vps)
   - [Need VPS?](#need-vps)
@@ -268,6 +269,14 @@ Support : <a href="https://clicks.pipaffiliates.com/c?c=862266&l=en&p=18">XM Sup
 <https://ma.valetax.com/p/1939088>
 
 Referral Code: 1939088
+
+#### Tickmill
+
+<https://tickmill.link/46cOQ2h>
+
+IB Code: IB72324388
+
+Support: <support@tickmill.com>
 
 Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file.  Clients who have registered through my link can just PM the trading account number to me <https://t.me/SyariefAzman>.
 
