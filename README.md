@@ -36,7 +36,6 @@ While this software is licensed under the MIT License, please note that it **may
     - [FBS](#fbs)
     - [HeadWay](#headway)
     - [markets4you](#markets4you)
-    - [OctaFx](#octafx)
     - [InstaForex](#instaforex)
     - [LiteForex](#liteforex)
     - [RoboForex](#roboforex)
@@ -221,14 +220,6 @@ Support: <care@hw.site>
 <https://account.markets4you.online/en/user-registration/?affid=4hcnvz4>.
 
 Partner code: 4hcnvz4
-
-#### OctaFx
-
-Link: <https://my.octafxmy.net/change-partner-request/?partner=246630>
-
-Referral ID: 246630
-
-Support: <support@octafx.com>
 
 #### InstaForex
 

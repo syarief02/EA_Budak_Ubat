@@ -24,7 +24,6 @@
     - [HeadWay](#headway)
     - [markets4you](#markets4you)
     - [GMI](#gmi)
-    - [OctaFx](#octafx)
     - [InstaForex](#instaforex)
     - [LiteForex](#liteforex)
     - [RoboForex](#roboforex)
@@ -178,13 +177,6 @@ Partner code: 4hcnvz4
 https://gmi-ma.biz/my/accounts/register/?ae=MY004&ib=GMP01583
 
 IB Code: GMP01583 
-
-#### OctaFx
-Link: https://my.octafxmy.net/change-partner-request/?partner=246630
-
-Referral ID: 246630
-
-Support: support@octafx.com 
 
 #### InstaForex
 Link: https://www.instaforex.com?x=KUSD
