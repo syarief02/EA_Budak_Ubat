@@ -21,10 +21,6 @@ Support: support@fbs.com
 markets4you: https://account.markets4you.online/en/user-registration/?affid=4hcnvz4.
 Partner code: 4hcnvz4 
 
-APX:
-https://secure.apxprime.com/links/go/340
-IB Code: 340
-
 InstaForex
 Link: https://www.instaforex.com?x=KUSD
 Affiliate code: KUSD
@@ -38,11 +34,6 @@ Support: clients@litefinance.com
 RoboForex:
 https://my.roboforex.com/en/?a=mxyg 
 Affiliate code: mxyg
-
-Exness : 
-https://one.exnesstrack.com/a/si0kd90q
-IB number : 8666845 
-Support: support@exness.com
 
 XM :
 https://clicks.pipaffiliates.com/c?c=862266&l=en&p=1
