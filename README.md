@@ -193,7 +193,7 @@ Support: <support@fisg.com>
 
 #### CXM
 
-<https://secure.cxmys.com/links/go/5062>
+<https://gocxm.co/links/go/5062>
 
 Partner ID: 5062
 

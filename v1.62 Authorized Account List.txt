@@ -11,7 +11,7 @@ Authorized account list:
 I lock the EA by account number for my client who is registered under my broker link only.  recommended account cent, laverage max.  minimum 100usd. 
 
 CXM:
-https://secure.cxmdirect.com/links/go/5062
+https://gocxm.co/links/go/5062
 Partner ID: 5062
 
 fbs: https://fbs.partners?ibl=1869&ibk=BuBat. 
