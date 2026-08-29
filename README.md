@@ -42,6 +42,7 @@ While this software is licensed under the MIT License, please note that it **may
     - [XM](#xm)
     - [Valetax](#valetax)
     - [Tickmill](#tickmill)
+    - [HF Markets](#hf-markets)
 - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
 - [USING A VPS](#using-a-vps)
   - [Need VPS?](#need-vps)
@@ -266,6 +267,14 @@ Referral Code: 1939088
 IB Code: IB72324388
 
 Support: <support@tickmill.com>
+
+#### HF Markets
+
+<https://www.hfmmalaysia.com/sv/en/?refid=30572923>
+
+REF ID: 30572923
+
+Support: <support@hfm.com>
 
 Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file.  Clients who have registered through my link can just PM the trading account number to me <https://t.me/SyariefAzman>.
 
