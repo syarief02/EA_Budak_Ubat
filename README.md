@@ -249,8 +249,6 @@ Support: <info@roboforex.com>
 
 <https://clicks.pipaffiliates.com/c?c=862266&l=en&p=1>
 
-Affiliate ID : A1202120
-
 Partner Code: HVVR7
 
 Support : <a href="https://clicks.pipaffiliates.com/c?c=862266&l=en&p=18">XM Support</a>
