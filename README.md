@@ -43,6 +43,8 @@ While this software is licensed under the MIT License, please note that it **may
     - [Valetax](#valetax)
     - [Tickmill](#tickmill)
     - [HF Markets](#hf-markets)
+    - [Eightcap](#eightcap)
+    - [JustMarkets](#justmarkets)
 - [How to install an EA on MT4 (fastest method)](#how-to-install-an-ea-on-mt4-fastest-method)
 - [USING A VPS](#using-a-vps)
   - [Need VPS?](#need-vps)
@@ -275,6 +277,22 @@ Support: <support@tickmill.com>
 REF ID: 30572923
 
 Support: <support@hfm.com>
+
+#### Eightcap
+
+<https://partners.eightcap.com/click?campaign_id=1&ref_id=8660>
+
+CFD Aff ID: 8660
+
+Support: <customerservice@eightcap.com>
+
+#### JustMarkets
+
+<https://one.justmarkets.link/a/tjrtn60m2i>
+
+Partner Code: tjrtn60m2i
+
+Support: <support@justmarkets.com>
 
 Please select a broker that you have never registered.  tell me the trading account number after registering.  I will share the EA update file.  Clients who have registered through my link can just PM the trading account number to me <https://t.me/SyariefAzman>.
 
